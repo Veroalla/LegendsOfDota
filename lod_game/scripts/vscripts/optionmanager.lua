@@ -83,7 +83,7 @@ OptionManager:SetOption('forceRandomHero', false)
 OptionManager:SetOption('wtfMode', false)
 
 -- Enable Universal shop mode
-OptionManager:SetOption('universalShop', false)
+OptionManager:SetOption('universalShop', true)
 
 -- Enable fast jungle mode
 OptionManager:SetOption('fastJungleCreeps', false)
