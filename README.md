@@ -53,8 +53,10 @@ SearchPaths
   - [Texas, USA] Ash47 3rd **lod.ash47.net:27017**
   - [Texas, USA] Ash47 4th **lod.ash47.net:27018**
  - Unofficial
+  - [EU] Veroalla **lod.noip.me:101**
+  - [EU] Veroalla **lod.noip.me:102**
+  - [EU] Veroalla **lod.noip.me:103** (Without Bots)
   - [Brazil] Pupin's Server **lodpupin.no-ip.org:27016**
-  - [EU] Veroalla **lod.noip.me:1337**
 
 ###Starting a source1 server###
  - There is debugging help below in the `More SRCDS Setup Help` section, there is also a FAQ below
